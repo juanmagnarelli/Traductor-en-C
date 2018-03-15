@@ -1,0 +1,6 @@
+todo,all
+bien,good
+y,and
+soy,iam
+dos,two
+si,yes
